@@ -28,7 +28,8 @@ MANIFEST
 
 #Data csv
 /data/dataProject.csv
-
+/data/dataProject_cleaned.csv
+/data/dataProject_model.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
