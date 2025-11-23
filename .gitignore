@@ -27,8 +27,9 @@ share/python-wheels/
 MANIFEST
 
 # Data files
-/data/*.csv
-!/data/README.md  # Keep the README if you have one
+/data/dataProject_cleaned.csv
+/data/dataProject_model.csv
+!/data/README.md
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
